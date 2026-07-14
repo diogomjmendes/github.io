@@ -10,10 +10,15 @@ A lightweight, responsive, one-page personal website designed for GitHub Pages.
 4. Under **Build and deployment**, select **Deploy from a branch** and choose `main` / root.
 5. The site will be available at `https://YOUR-USERNAME.github.io`.
 
+## Included links
+
+- LinkedIn: `https://www.linkedin.com/in/diogomjmendes/`
+- University of Coimbra — Faculty of Pharmacy: `https://www.uc.pt/ffuc/`
+- Clevidence: `https://clevidence.pt/`
+- Google Scholar, Ciência Vitae and ORCID
+
 ## Before publishing
 
-- Add the final LinkedIn URL to the contact section.
-- Add official University of Coimbra and Clevidence profile links if desired.
 - Consider a public, privacy-safe two-page CV rather than uploading the full institutional CV.
 - Replace or refine selected publications as priorities evolve.
 - Add a custom domain later if useful.
